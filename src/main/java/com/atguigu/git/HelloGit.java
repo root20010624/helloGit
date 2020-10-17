@@ -13,5 +13,6 @@ public class HelloGit {
         System.out.println("支分支");
         System.out.println("在线编辑");
         System.out.println("克隆者");
+        System.out.println("ssh");
     }
 }
