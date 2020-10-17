@@ -15,6 +15,8 @@ public class HelloGit {
         System.out.println("克隆者");
         System.out.println("ssh");
         System.out.println("令狐冲");
+        System.out.println("测试分布式成功");
+
 
     }
 }
